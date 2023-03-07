@@ -1,5 +1,5 @@
 # BESLE++-
-This repository contains the extension of the open-source software BEM package BESLE, now implemented in C++
+This repository contains the extension of the open-source software BEM package BESLE,which is now being implemented in C++
 
 BESLE is a Boundary Element Software for 3D Linear Elasticity developed by Andres F. Galvis, at the Department of Computational Mechanics, School of Computational Engineering, The University of Campinas in 09/10/2020.
 
